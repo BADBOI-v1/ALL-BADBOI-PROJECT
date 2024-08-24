@@ -48,25 +48,15 @@ V6)
 - [`TAP`]()
 
 -------
-## ```MAKE SURE YOU GIVE A STAR ✨```
+## ```MAKE SURE YOU FOLLOW ME```
 
 -------
 ## ```YOUTUBE CHANNEL FOR TUTORIALS```
 
- - [ Click Me ](https://youtube.com/@king_sam_hub?si=1_Ae2h9Kl9IbAo7E)
+ - [ Click ](https://youtube.com/@BADBOI-k2i?si=1_Ae2h9Kl9IbAo7E)
  - 
-## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
- <br> 
-<p align="center">
-<a href="https://wa.me/2348140825959"><img src="https://img.shields.io/badge/Contact BADBOI-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-   
-<a href='https://chat.whatsapp.com/LYOPu85NAVv4ymxOxCxRQY' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
-
-## 🎯 Authors 🎯
-  <div align="center">
-  
-| [![Tᴀɪʀᴀ Mᴀᴋɪɴᴏ](## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
+## ```Connect With Me```
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
 <a href="https://wa.me/2348140825959"><img src="https://img.shields.io/badge/Contact BADBOI-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -95,12 +85,9 @@ V6)
   </br> 
 
 
-| [  Lord No Name](https://github.com/Anime-King01) |
-|  Co-Developer |
 
-  </div>
-   
-  </br> 
+
+
 
 
 
