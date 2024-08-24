@@ -1,21 +1,27 @@
 
 -------
-## <h1 align="center">ꪶ𝗔𝗟𝗟 𝗜𝗡 𝗢𝗡𝗘 𝗣𝗥𝗢𝗝𝗘𝗖𝗧ꫂ<br></h1>
+## <h1 align="center">ꪶ𝗔𝗟𝗟 BADBOI 𝗣𝗥𝗢𝗝𝗘𝗖𝗧ꫂ<br></h1>
 -------
 
 ## ```IMFORMATION```
 
 𝗚𝗜𝗧𝗛𝗨𝗕 𝗙𝗢𝗟𝗟𝗢𝗪𝗘𝗥
 <p align="center">
-<a href="https://github.com/Samue-l1/followers"><img title="Followers" src="https://img.shields.io/github/followers/Samue-l1?color=red&style=flat-square"></a>
+<a href="https://github.com/BADBOI-v1/followers"><img title="Followers" src="https://img.shields.io/github/followers/BADBOI-v1?color=red&style=flat-square"></a>
 
-- [`FOLLOW MY GITHUB`](https://github.com/Samue-l1)
+- [`FOLLOW MY GITHUB`](https://github.com/BADBOI-v1/)
 
 -------
 ## ```CLASSIC BOT REPO```
 
 - [`TAP ME`](https://github.com/Samue-l1/Classic-v3-BUG/pair)
 
+v3)
+
+-------
+## ```CLASSIC BOT REPO```
+
+- [`TAP ME`](https://github.com/Samue-l1/Classic-v3-BUG/pair)
 
 -------
 ## ```DEVIL SPIDER V4 REPO```
