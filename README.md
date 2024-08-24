@@ -12,31 +12,40 @@
 - [`FOLLOW MY GITHUB`](https://github.com/BADBOI-v1/)
 
 -------
-## ```CLASSIC BOT REPO```
+## ```BADBOI-v1 BOT REPO```
 
-- [`TAP ME`](https://github.com/Samue-l1/Classic-v3-BUG/pair)
+- [`TAP ME`](https://github.com/BADBOI-v1/BADBOI-v1)
 
-v3)
 
--------
-## ```CLASSIC BOT REPO```
-
-- [`TAP ME`](https://github.com/Samue-l1/Classic-v3-BUG/pair)
 
 -------
-## ```DEVIL SPIDER V4 REPO```
+## ```BADBOI-v2 BOT REPO```
 
-- [`TAP ME`](https://github.com/Samue-l1/Devil-Spider)
-
--------
-## ```SPIDER V6 REPO```
-
-- [`TAP ME`](https://github.com/Samue-l1/Spider-V6)
+- [`TAP`](https://github.com/BADBOI-v1/BADBOI-v2)
 
 -------
-## ```SESSION GENERATOR LINK```
+## ```BADBOI-v3 REPO```
 
-- [`TAP ME`](https://spider-classic-pairing.onrender.com)
+- [`TAP`](https://github.com/BADBOI-v1/BADBOI-v3)
+
+-------
+## ```QUEEN-BHAD-DC MD REPO```
+
+- [`TAP`](https://github.com/BADBOI-v1/Queen-BHAD-DC-MD)
+- 
+## ```CHASE MD REPO```
+
+- [`TAP`](https://github.com/BADBOI-v1/CHASE-MD)
+-------
+## ```BADBOI-v1 TO v3 SESSION GENERATOR LINK```
+
+- [`TAP`]()
+V6)
+
+-------
+## ```CHASE-MD AND QUEEN BHAD DC SESSION GENERATOR LINK```
+
+- [`TAP`]()
 
 -------
 ## ```MAKE SURE YOU GIVE A STAR ✨```
@@ -46,19 +55,7 @@ v3)
 
  - [ Click Me ](https://youtube.com/@king_sam_hub?si=1_Ae2h9Kl9IbAo7E)
  - 
-## ```Connect With Me```
-<p align="center">
 
-<a href="https://wa.me//254742491666"><img src="https://img.shields.io/badge/WhatsApp ?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me//254742491666" /><br>
 
--------
-## ```BOT CHANNEL```
 
-- [`Channel`](https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e)
--------
-## ```ALL THANKS TOO```
 
-- [`King Sam`](https://github.com/Samue-l1)
-- [`Taira Makino`](https://github.com/anonphoenix007)
-
--------
