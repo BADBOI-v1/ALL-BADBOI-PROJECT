@@ -44,7 +44,7 @@
 -------
 ## ```CHASE-MD AND QUEEN BHAD DC SESSION GENERATOR LINK```
 
-- [`TAP`]()
+- [`TAP`](https://all-bot-paring-generator-by-badboi-hacker-dtow.onrender.com)
 
 -------
 ## ```MAKE SURE YOU FOLLOW ME```
