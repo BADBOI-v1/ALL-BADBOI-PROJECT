@@ -14,7 +14,7 @@
 -------
 ## ```BADBOI-v1 BOT REPO```
 
-- [`TAP ME`](https://github.com/BADBOI-v1/BADBOI-v1)
+- [`TAP`](https://github.com/BADBOI-v1/BADBOI-v1)
 
 
 
@@ -39,8 +39,7 @@
 -------
 ## ```BADBOI-v1 TO v3 SESSION GENERATOR LINK```
 
-- [`TAP`]()
-V6)
+- [`TAP`](https://badboi.onrender.com)
 
 -------
 ## ```CHASE-MD AND QUEEN BHAD DC SESSION GENERATOR LINK```
