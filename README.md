@@ -54,7 +54,7 @@
 -------
 ## ```BADBOI-v1 TO v5 SESSION GENERATOR LINK```
 
-- [`TAP`](https://badboi.onrender.com)
+- [`TAP`](https://creds-json-paring-generator-by-badboi-2.onrender.com/)
 
 -------
 ## ```CHASE-MD AND QUEEN BHAD DC SESSION GENERATOR LINK```
