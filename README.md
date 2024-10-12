@@ -28,6 +28,21 @@
 
 - [`TAP`](https://github.com/BADBOI-v1/BADBOI-v3)
 
+
+-------
+## ```BADBOI-v4 BOT REPO```
+
+- [`TAP`](https://github.com/BADBOI-v1/BADBOI-v4)
+
+
+-------
+## ```BADBOI-v4 BOT REPO```
+
+- [`TAP`](https://github.com/BADBOI-v1/BADBOI-v4)
+
+
+
+
 -------
 ## ```QUEEN-BHAD-DC MD REPO```
 
