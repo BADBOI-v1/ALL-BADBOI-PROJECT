@@ -36,9 +36,9 @@
 
 
 -------
-## ```BADBOI-v4 BOT REPO```
+## ```BADBOI-v5 BOT REPO```
 
-- [`TAP`](https://github.com/BADBOI-v1/BADBOI-v4)
+- [`TAP`](https://github.com/BADBOI-v1/BADBOI-v5)
 
 
 
